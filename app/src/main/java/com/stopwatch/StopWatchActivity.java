@@ -51,6 +51,5 @@ public class StopWatchActivity extends AppCompatActivity {
                 handler.postDelayed(this,1000);
             }
         });
-
     }
 }
